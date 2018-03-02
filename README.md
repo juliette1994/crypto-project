@@ -1,2 +1,2 @@
-# crypto-project
+# CryptoProject
 PHP Project
